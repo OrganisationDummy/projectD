@@ -3,6 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title>ProjectD</title>
+		<link rel="stylesheet" href="../static/css/main.css" />
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 		<script src="../static/js/account/account.js"></script>
 	</head>
