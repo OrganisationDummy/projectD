@@ -3,6 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title>ProjectD</title>
+		<link rel="stylesheet" href="../static/css/main.css" />
 	</head>
 	<body>
 		<header>
